@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Python разработчик",
+    "alternate_url": "https://hh.ru/vacancy/12345678",
+    "salary": {
+      "from": 120000,
+      "to": 180000,
+      "currency": "RUR"
+    },
+    "description": "Разработка backend на Python. Опыт от 2 лет. Требования: знание Python 3.8+, опыт работы с Django или Flask, понимание ООП, опыт работы с базами данных (PostgreSQL, MySQL), знание Git. Обязанности: разработка новых функциональностей, поддержка существующего кода, код-ревью, участие в планировании спринтов.",
+    "snippet": {
+      "requirement": "Python, Django, Flask, PostgreSQL, Git, ООП"
+    },
+    "employer": {
+      "name": "IT компания"
+    }
+  },
+  {
+    "name": "Senior Python Developer",
+    "alternate_url": "https://hh.ru/vacancy/87654321",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Разработка высоконагруженных систем. Требования: опыт работы от 5 лет, глубокое знание Python, опыт работы с асинхронным программированием (asyncio), опыт работы с микросервисной архитектурой, знание Docker, Kubernetes, опыт работы с облачными платформами (AWS, GCP). Обязанности: проектирование архитектуры, разработка сложных систем, менторинг junior разработчиков, участие в принятии технических решений.",
+    "snippet": {
+      "requirement": "Python, asyncio, Redis, Docker, Kubernetes, AWS, микросервисы"
+    },
+    "employer": {
+      "name": "Технологический стартап"
+    }
+  },
+  {
+    "name": "Python Data Engineer",
+    "alternate_url": "https://hh.ru/vacancy/11223344",
+    "salary": {
+      "from": 150000,
+      "to": 220000,
+      "currency": "RUR"
+    },
+    "description": "Работа с большими данными и ETL процессами. Требования: опыт работы от 3 лет, знание Python для анализа данных, опыт работы с SQL, знание Apache Airflow, опыт работы с PySpark, знание Hadoop, опыт работы с облачными хранилищами данных (BigQuery, Redshift). Обязанности: разработка и поддержка ETL процессов, оптимизация запросов, работа с большими объемами данных, построение отчетов.",
+    "snippet": {
+      "requirement": "Python, SQL, Airflow, PySpark, BigQuery, ETL"
+    },
+    "employer": {
+      "name": "Data компания"
+    }
+  },
+  {
+    "name": "Junior Python Developer",
+    "alternate_url": "https://hh.ru/vacancy/44556677",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Разработка на Python для начинающих специалистов. Требования: знание основ Python, базовое понимание веб-разработки, желание учиться и развиваться. Обязанности: помощь в разработке функциональностей, изучение новых технологий, написание тестов, участие в командной работе.",
+    "snippet": {
+      "requirement": "Python, основы программирования, Git, желание учиться"
+    },
+    "employer": {
+      "name": "Развивающаяся IT компания"
+    }
+  },
+  {
+    "name": "Python разработчик (Django)",
+    "alternate_url": "https://hh.ru/vacancy/99887766",
+    "salary": {
+      "from": 140000,
+      "to": 190000,
+      "currency": "RUR"
+    },
+    "description": "Разработка веб-приложений на Django. Требования: опыт работы с Django от 2 лет, знание Django REST Framework, опыт работы с Celery, знание Redis, опыт работы с PostgreSQL, понимание принципов REST API. Обязанности: разработка backend части веб-приложений, создание API, интеграция с внешними сервисами, оптимизация производительности.",
+    "snippet": {
+      "requirement": "Python, Django, Django REST Framework, Celery, Redis, PostgreSQL"
+    },
+    "employer": {
+      "name": "Веб-студия"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+[flake8]
+max-line-length = 79
+exclude = .git,__pycache__,build,dist,.venv,venv
+ignore =
+    E402,  # module level import not at top of file (нужно для тестов)
+    W503,  # line break before binary operator
+    E203,  # whitespace before ':'
+    W504
+per-file-ignores =
+    tests/*:E402
+    src/api/fallback_hh_api.py:F401
